@@ -1,0 +1,107 @@
+{
+ "inst": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/inst_22.wav",
+ "vox_dad": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/build/vox_dad.wav",
+ "vox_son": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/build/vox_son.wav",
+ "crowd": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/crowd.wav",
+ "duration": 30.0,
+ "music_end": 28.9,
+ "out": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/final_song.wav",
+ "lufs": -10.0,
+ "vox_db": 3.5,
+ "crowd_break_db": -3.0,
+ "break": [
+  14.724,
+  18.491999999999997
+ ],
+ "crowd_gain": [
+  [
+   0,
+   1.6
+  ],
+  [
+   1.5,
+   1.3
+  ],
+  [
+   2.0,
+   0.5
+  ],
+  [
+   7.2,
+   0.5
+  ],
+  [
+   7.5,
+   0.9
+  ],
+  [
+   9,
+   0.45
+  ],
+  [
+   14.3,
+   0.45
+  ],
+  [
+   14.5,
+   1.0
+  ],
+  [
+   18.4,
+   1.0
+  ],
+  [
+   18.7,
+   0.45
+  ],
+  [
+   25.8,
+   0.5
+  ],
+  [
+   28.6,
+   1.1
+  ],
+  [
+   30,
+   1.5
+  ]
+ ],
+ "pyro": [
+  0.02,
+  2.672,
+  4.184,
+  7.408,
+  8.256,
+  10.864,
+  13.088,
+  14.624,
+  15.28,
+  16.16,
+  16.992,
+  17.792,
+  18.592,
+  20.32,
+  22.032,
+  23.776,
+  25.968,
+  26.864,
+  28.64
+ ],
+ "booms": [
+  0.02,
+  7.408,
+  18.592,
+  28.64
+ ],
+ "hey": [
+  15.28,
+  15.728,
+  16.16,
+  16.576,
+  16.992,
+  17.392,
+  17.792,
+  18.176
+ ]
+}

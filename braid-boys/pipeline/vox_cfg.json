@@ -1,0 +1,793 @@
+{
+ "beats": [
+  1.808,
+  2.24,
+  2.672,
+  3.104,
+  3.536,
+  3.968,
+  4.4,
+  4.832,
+  5.264,
+  5.696,
+  6.128,
+  6.544,
+  6.976,
+  7.408,
+  7.824,
+  8.256,
+  8.688,
+  9.12,
+  9.552,
+  10.0,
+  10.432,
+  10.864,
+  11.312,
+  11.744,
+  12.192,
+  12.656,
+  13.088,
+  13.536,
+  13.968,
+  14.4,
+  14.848,
+  15.28,
+  15.728,
+  16.16,
+  16.576,
+  16.992,
+  17.392,
+  17.792,
+  18.176,
+  18.592,
+  19.04,
+  19.456,
+  19.888,
+  20.32,
+  20.768,
+  21.184,
+  21.6,
+  22.032,
+  22.464,
+  22.88,
+  23.328,
+  23.776,
+  24.208,
+  24.64,
+  25.088,
+  25.52,
+  25.968,
+  26.4,
+  26.864,
+  27.296,
+  27.744,
+  28.192,
+  28.64,
+  29.072,
+  29.536
+ ],
+ "duration": 31.0,
+ "fps": 30,
+ "out_dir": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/build",
+ "lines": [
+  {
+   "id": "verse1",
+   "singer": "dad",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/dad1_sing_a.wav",
+   "start_beat": 0,
+   "words": [
+    {
+     "w": "I",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      42
+     ]
+    },
+    {
+     "w": "FOUGHT",
+     "b": 0.5,
+     "d": 0.75,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "THROUGH",
+     "b": 1.25,
+     "d": 0.75,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "HELL",
+     "b": 2,
+     "d": 1.25,
+     "n": [
+      49,
+      47
+     ],
+     "show": "HELL,"
+    },
+    {
+     "w": "I",
+     "b": 3.5,
+     "d": 0.5,
+     "n": [
+      42
+     ]
+    },
+    {
+     "w": "CONQUERED",
+     "b": 4,
+     "d": 1,
+     "n": [
+      47,
+      49
+     ]
+    },
+    {
+     "w": "THE",
+     "b": 5,
+     "d": 0.5,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "FLAME",
+     "b": 5.5,
+     "d": 1,
+     "n": [
+      52,
+      47
+     ],
+     "show": "FLAME!"
+    }
+   ],
+   "formant": 0.93,
+   "keep_natural": 0.3
+  },
+  {
+   "id": "verse2",
+   "singer": "dad",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/dad2_sing_a.wav",
+   "start_beat": 6.5,
+   "words": [
+    {
+     "w": "NOW",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      42
+     ]
+    },
+    {
+     "w": "RISE",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      47,
+      52
+     ],
+     "show": "RISE,"
+    },
+    {
+     "w": "MY",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      49
+     ]
+    },
+    {
+     "w": "SON",
+     "b": 2,
+     "d": 1.25,
+     "n": [
+      52,
+      47
+     ],
+     "show": "SON,"
+    },
+    {
+     "w": "AND",
+     "b": 3.5,
+     "d": 0.5,
+     "n": [
+      42
+     ]
+    },
+    {
+     "w": "CARRY",
+     "b": 4,
+     "d": 1,
+     "n": [
+      47,
+      49
+     ]
+    },
+    {
+     "w": "MY",
+     "b": 5,
+     "d": 0.5,
+     "n": [
+      49
+     ]
+    },
+    {
+     "w": "NAME",
+     "b": 5.5,
+     "d": 1.1,
+     "n": [
+      54,
+      47
+     ],
+     "show": "NAME!"
+    }
+   ],
+   "formant": 0.93,
+   "keep_natural": 0.3
+  },
+  {
+   "id": "chorus1a",
+   "singer": "son",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/son1_b.wav",
+   "start_beat": 13,
+   "words": [
+    {
+     "w": "I",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      59
+     ]
+    },
+    {
+     "w": "FEEL",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "YOUR",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "FIRE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      66,
+      64
+     ]
+    },
+    {
+     "w": "RUNNING",
+     "b": 4,
+     "d": 1,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "THROUGH",
+     "b": 5,
+     "d": 1,
+     "n": [
+      66
+     ]
+    },
+    {
+     "w": "ME",
+     "b": 6,
+     "d": 1.75,
+     "n": [
+      64,
+      59
+     ],
+     "show": "ME!"
+    }
+   ],
+   "formant": 1.12
+  },
+  {
+   "id": "chorus1b",
+   "singer": "son",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/son2_b.wav",
+   "start_beat": 21,
+   "words": [
+    {
+     "w": "THE",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      59
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      64,
+      66
+     ]
+    },
+    {
+     "w": "YOU",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "ARE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      69,
+      66
+     ],
+     "show": "ARE,"
+    },
+    {
+     "w": "IS",
+     "b": 4,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "THE",
+     "b": 4.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 5,
+     "d": 1,
+     "n": [
+      71,
+      69
+     ]
+    },
+    {
+     "w": "I'LL",
+     "b": 6,
+     "d": 0.75,
+     "n": [
+      66
+     ]
+    },
+    {
+     "w": "BE",
+     "b": 6.75,
+     "d": 1.75,
+     "n": [
+      64
+     ],
+     "show": "BE!"
+    }
+   ],
+   "formant": 1.12
+  },
+  {
+   "id": "chorus2a",
+   "singer": "son",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/son1_b.wav",
+   "start_beat": 39,
+   "words": [
+    {
+     "w": "I",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      59
+     ]
+    },
+    {
+     "w": "FEEL",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "YOUR",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "FIRE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      66,
+      64
+     ]
+    },
+    {
+     "w": "RUNNING",
+     "b": 4,
+     "d": 1,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "THROUGH",
+     "b": 5,
+     "d": 1,
+     "n": [
+      66
+     ]
+    },
+    {
+     "w": "ME",
+     "b": 6,
+     "d": 1.75,
+     "n": [
+      64,
+      59
+     ],
+     "show": "ME!"
+    }
+   ],
+   "formant": 1.12,
+   "sub_singer": "both"
+  },
+  {
+   "id": "chorus2a_dad",
+   "singer": "dad",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/dad3_a.wav",
+   "start_beat": 39,
+   "words": [
+    {
+     "w": "I",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "FEEL",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "YOUR",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "FIRE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      54,
+      52
+     ]
+    },
+    {
+     "w": "RUNNING",
+     "b": 4,
+     "d": 1,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "THROUGH",
+     "b": 5,
+     "d": 1,
+     "n": [
+      54
+     ]
+    },
+    {
+     "w": "ME",
+     "b": 6,
+     "d": 1.75,
+     "n": [
+      52,
+      47
+     ],
+     "show": "ME!"
+    }
+   ],
+   "formant": 0.93,
+   "gain": 0.8,
+   "subtitle": false
+  },
+  {
+   "id": "chorus2b",
+   "singer": "son",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/son2_b.wav",
+   "start_beat": 47,
+   "words": [
+    {
+     "w": "THE",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      59
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      64,
+      66
+     ]
+    },
+    {
+     "w": "YOU",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "ARE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      69,
+      66
+     ],
+     "show": "ARE,"
+    },
+    {
+     "w": "IS",
+     "b": 4,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "THE",
+     "b": 4.5,
+     "d": 0.5,
+     "n": [
+      64
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 5,
+     "d": 1,
+     "n": [
+      71,
+      69
+     ]
+    },
+    {
+     "w": "I'LL",
+     "b": 6,
+     "d": 0.75,
+     "n": [
+      66
+     ]
+    },
+    {
+     "w": "BE",
+     "b": 6.75,
+     "d": 1.75,
+     "n": [
+      64
+     ],
+     "show": "BE!"
+    }
+   ],
+   "formant": 1.12,
+   "sub_singer": "both"
+  },
+  {
+   "id": "chorus2b_dad",
+   "singer": "dad",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/dad4_a.wav",
+   "start_beat": 47,
+   "words": [
+    {
+     "w": "THE",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 0.5,
+     "d": 1,
+     "n": [
+      52,
+      54
+     ]
+    },
+    {
+     "w": "YOU",
+     "b": 1.5,
+     "d": 0.5,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "ARE",
+     "b": 2,
+     "d": 1.5,
+     "n": [
+      57,
+      54
+     ],
+     "show": "ARE,"
+    },
+    {
+     "w": "IS",
+     "b": 4,
+     "d": 0.5,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "THE",
+     "b": 4.5,
+     "d": 0.5,
+     "n": [
+      52
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 5,
+     "d": 1,
+     "n": [
+      59,
+      57
+     ]
+    },
+    {
+     "w": "I'LL",
+     "b": 6,
+     "d": 0.75,
+     "n": [
+      54
+     ]
+    },
+    {
+     "w": "BE",
+     "b": 6.75,
+     "d": 1.75,
+     "n": [
+      52
+     ],
+     "show": "BE!"
+    }
+   ],
+   "formant": 0.93,
+   "gain": 0.8,
+   "subtitle": false
+  },
+  {
+   "id": "tag",
+   "singer": "son",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/son2_b.wav",
+   "start_beat": 56,
+   "words": [
+    {
+     "w": "THE",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      59
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 0.5,
+     "d": 1.5,
+     "n": [
+      71,
+      69
+     ]
+    },
+    {
+     "w": "I'LL",
+     "b": 2,
+     "d": 1,
+     "n": [
+      66
+     ]
+    },
+    {
+     "w": "BE",
+     "b": 3,
+     "d": 3,
+     "n": [
+      64
+     ],
+     "show": "BE!"
+    }
+   ],
+   "formant": 1.12,
+   "sub_singer": "both",
+   "heard_skip": 5
+  },
+  {
+   "id": "tag_dad",
+   "singer": "dad",
+   "take": "/tmp/claude-0/-home-user-AFFiNE/ca6d5c79-e9b3-501a-8999-a45e123ecc92/scratchpad/audio/vox/dad4_a.wav",
+   "start_beat": 56,
+   "words": [
+    {
+     "w": "THE",
+     "b": 0,
+     "d": 0.5,
+     "n": [
+      47
+     ]
+    },
+    {
+     "w": "BEAST",
+     "b": 0.5,
+     "d": 1.5,
+     "n": [
+      59,
+      57
+     ]
+    },
+    {
+     "w": "I'LL",
+     "b": 2,
+     "d": 1,
+     "n": [
+      54
+     ]
+    },
+    {
+     "w": "BE",
+     "b": 3,
+     "d": 3,
+     "n": [
+      52
+     ],
+     "show": "BE!"
+    }
+   ],
+   "formant": 0.93,
+   "gain": 0.85,
+   "subtitle": false,
+   "heard_skip": 6
+  }
+ ]
+}
